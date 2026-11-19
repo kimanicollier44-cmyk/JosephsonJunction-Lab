@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](JosephsonJunction-Lab%20cover.png)
 
 # JosephsonJunction-Lab ⚡🧲
 
